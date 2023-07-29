@@ -3,7 +3,7 @@
 
 import openai
 
-openai.api_key = "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"
+openai.api_key = "INSERT_KEY_HERE"
 
 
 def gera_texto(texto):
